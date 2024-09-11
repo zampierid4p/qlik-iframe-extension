@@ -30,8 +30,8 @@
   "devDependencies": {
     "@nebula.js/cli": "4.5.0",
     "@nebula.js/cli-build": "4.5.0",
-    "@nebula.js/cli-serve": "4.5.0",
     "@nebula.js/cli-sense": "4.5.0",
+    "@nebula.js/cli-serve": "4.5.0",
     "@playwright/test": "^1.28.1",
     "@qlik/sdk": "^0.12.0",
     "eslint": "7.27.0",
